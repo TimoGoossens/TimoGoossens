@@ -63,3 +63,6 @@ done
 - https://my.solarwinds.cloud/login?client_id=loggly&response_type=code&scope=openid+swicus&nonce=7kKMDBJZZ309JeDD&redirect_uri=https%3A%2F%2Fapp.loggly.com%2Fsso%2Foidc%2Fdo_sign_on&state=eyJyZnAiOiAibEI4dHlyNHpWb0FSOXFxeiIsICJyZXR1cm5fcGF0aCI6ICIvc2VhcmNoP3Rlcm1zPWxvZ3R5cGU6c3lzbG9nIiwgInN1YmRvbWFpbiI6ICJ0aG9tYXNtb3JlIiwgIm9yaWdpbmF0aW5nX29yZ19pZCI6IG51bGx9&org_id=141767306102525952#terms=syslog.severity%3AError%20OR%20syslog.severity%3ACritical&from=2022-04-06T09%3A48%3A19.593Z&until=2022-04-07T09%3A48%3A19.593Z&source_group=
 - https://my.solarwinds.cloud/login?client_id=papertrail&redirect_uri=https%3A%2F%2Fpapertrailapp.com%2Faccount%2Fauth%2Fswicus%2Fcallback&response_type=code&scope=openid+swicus&state=SeYtCOCOTxPo1bcwJ%2BU8kd0sHAd9rt1dJhGnMpP8FMY%3D
 - https://cybercademy.org/create-a-centralized-syslog-server-project-overview/
+
+#video met korte uitleg
+- https://youtu.be/056nkyqdR0I
