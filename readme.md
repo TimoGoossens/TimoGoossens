@@ -65,4 +65,4 @@ done
 - https://cybercademy.org/create-a-centralized-syslog-server-project-overview/
 
 #video met korte uitleg
-- https://youtu.be/056nkyqdR0I
+-https://youtu.be/R-6Om2y-d6o
